@@ -1,4 +1,4 @@
-import CustomButton from './components/Button/Button';
+import CustomButton from './components/Button';
 function App() {
   return (
     <>
